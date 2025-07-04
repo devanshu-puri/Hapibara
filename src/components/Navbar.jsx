@@ -12,9 +12,9 @@ const Navbar = () => {
       <ul className="hidden md:flex gap-8 font-medium text-black">
         <li><Link to="/">Home</Link></li>
         <li><Link to="/recipes">Recipes</Link></li>
-        <li><Link to="#">Grocery Shop</Link></li>
+        <li><Link to="/shop">Grocery Shop</Link></li>
         <li><Link to="/waitlist">Waitlist</Link></li>
-        <li><Link to="#">Blog</Link></li>
+        <li><Link to="/blog">Blog</Link></li>
         <li><Link to="/about">About Us</Link></li>
       </ul>
 
