@@ -13,8 +13,9 @@ const Navbar = () => {
         <li><Link to="/">Home</Link></li>
         <li><Link to="/recipes">Recipes</Link></li>
         <li><Link to="#">Grocery Shop</Link></li>
+        <li><Link to="/waitlist">Waitlist</Link></li>
         <li><Link to="#">Blog</Link></li>
-        <li><Link to="#">About Us</Link></li>
+        <li><Link to="/about">About Us</Link></li>
       </ul>
 
       <button className="bg-black text-white px-4 py-1 rounded-full text-sm font-medium hover:bg-gray-800 transition">

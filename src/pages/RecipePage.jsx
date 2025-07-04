@@ -1,5 +1,6 @@
-import recipes from "../data/recipes"; // We will create this
-import RecipeCard from "../components/RecipeCard";
+import React from "react";
+import recipes from "../data/recipes"; 
+import RecipeCard from "../components/RecipeCard"; 
 
 const RecipePage = () => {
   return (

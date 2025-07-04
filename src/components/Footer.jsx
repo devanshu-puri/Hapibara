@@ -19,9 +19,10 @@ const Footer = () => {
             <img src={logo} alt="hapibara logo" className="h-10" />
             <h3 className="text-lg font-semibold">About</h3>
           </div>
-          <p className="text-gray-700">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam dictum aliquet accumsan porta lectus ridiculus in mattis.
-          </p>
+          <p className="text-sm text-gray-500 max-w-md">
+         Hapibara is India’s first vegan lifestyle platform — blending conscious food, fashion, wellness, and community to make kind living effortless and joyful.
+        </p>
+
         </div>
 
         {/* Pages */}
