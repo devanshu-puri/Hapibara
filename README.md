@@ -1,12 +1,50 @@
-# React + Vite
+# 🌱 HAPIBARA – Where Kind Living Starts
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+India’s first **all-in-one vegan lifestyle platform** — discover delicious plant-based recipes, shop ethical products, and connect with a vibrant conscious community.
 
-Currently, two official plugins are available:
+![HAPIBARA Banner](./public/banner.png) <!-- Replace with actual banner path if available -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🧩 What You’ll Find
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🥣 **Curated Vegan Recipes**  
+  Easy, plant-powered meals rooted in Indian & global flavors.
+
+- 🛍 **Cruelty-Free Marketplace**  
+  Ethical skincare, fashion, snacks, and accessories from vegan-first brands.
+
+- 💬 **Conscious Community**  
+  Challenges, stories & sharing — powered by kind-living creators.
+
+---
+
+## 💚 Why HAPIBARA?
+
+✅ One-stop for all things vegan  
+✅ Recipes + Products + Community = Harmony  
+✅ Built by vegans, for vegans  
+✅ Compassionate, clean, and culturally rooted in India
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ React + Vite
+- 💨 Tailwind CSS
+- 🧭 React Router DOM
+- 🎨 Figma-based responsive UI
+- 📦 Modular Components (Hero, Footer, Recipes, Marketplace, etc.)
+
+---
+
+## 📸 Screenshots
+
+| Homepage                        | Recipes Page                    |
+|-------------------------------|----------------------------------|
+| ![Homepage](./public/home.png) | ![Recipes](./public/recipes.png) |
+
+---
+
+## 📁 Folder Structure
+
